@@ -1,1 +1,1 @@
-# KMS-Analysis-With-SQL
+# Case Study 2: Kultra Mega Stores Inventory Analysis (SQL)

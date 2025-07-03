@@ -15,5 +15,5 @@ This analysis makes use of SQL to execute queries. With this, KMS is prepared to
 - Aimed at advising business decisions based on sales, shipping and customer behavior.
 - Present key insights and findings.
 
-For this project, the respective queries to the case scenarios solved can be viewed here [DOWNLOAD HERE](
-Also, find attached pictures of what the data ouput from the queries look like [DOWNLOAD HERE] 
+For this project, the respective queries to the case scenarios solved can be viewed here [DOWNLOAD HERE](https://github.com/Ifeoluwa260620/KMS-Analysis-Using-SQL/commit/7f88965e629d80eba71b73eeaebf3111d20c8f6c)
+Also, find attached pictures of what the data ouput from the queries look like [DOWNLOAD HERE](

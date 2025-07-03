@@ -28,3 +28,11 @@ If the Delivery Truck is the most economical but slowest shipping method and Exp
   
 In conclusion to this, there is a misalignment of shipping method to order urgency, leading to unnecessary costs. Critical and High Priority Orders should be restricted for Express Air. Also, for Low Priority Orders, stick to Delivery Truck unless exceptional cases.
 
+### Key Insights And Findings
+The following can be implemented to help KMS improve marketing strategies, sales effectiveness and customer satisfaction:
+- Since Technology and Furniture had the highest sales revenue, KMS should consider shifting attention to furniture and technology products to attract higher purchase quantities.
+- The influence of Corporate customers like Roy Skaria with the most orders can be leveraged by developing close ties and possible special offers to sustain higher orders.
+- Maximize the impact of valuable customers like Emily Phan who purchased mostly technological products by providing discounts on their purchased which will in a way also promote their business.
+- KMS should adopt this method by periodically reviewing and improving strageies taking into account new available data insights.
+
+In summary, this analysis reveals a possibility in improving business decisions and operational effectiveness.

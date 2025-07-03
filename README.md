@@ -1,1 +1,2 @@
 # Case Study 2: Kultra Mega Stores Inventory Analysis (SQL)
+
